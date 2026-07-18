@@ -13,15 +13,12 @@ class Solution {
         return ans;
     }
 
-    public static int GCD(int min, int max){
-        while(min != max){
-            if(min > max){
-                min -= max;
-            }else{
-                max -= min;
-            }
+    public static int GCD(int a, int b) {
+        while (b != 0) {
+            int rem = a % b;
+            a = b;
+            b = rem;
         }
-
-        return min;
+        return a;
     }
 }
