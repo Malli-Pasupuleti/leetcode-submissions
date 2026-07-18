@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
