@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
