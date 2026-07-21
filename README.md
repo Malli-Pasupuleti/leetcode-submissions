@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0709-to-lower-case) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
