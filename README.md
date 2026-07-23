@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Counting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Design
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
