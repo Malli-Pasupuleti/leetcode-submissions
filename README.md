@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
