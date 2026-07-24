@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
