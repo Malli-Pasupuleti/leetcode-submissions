@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1768-merge-strings-alternately](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
