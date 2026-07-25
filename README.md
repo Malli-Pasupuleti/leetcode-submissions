@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Binary Search
 |  |
