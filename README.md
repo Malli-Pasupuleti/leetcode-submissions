@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Binary Search
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
