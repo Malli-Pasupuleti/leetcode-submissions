@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
