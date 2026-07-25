@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -390,8 +393,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
