@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0409-longest-palindrome) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
