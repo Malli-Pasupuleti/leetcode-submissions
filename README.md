@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Linked List
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 ## String Matching
 |  |
 | ------- |
