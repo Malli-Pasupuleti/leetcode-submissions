@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2418-sort-the-people](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2418-sort-the-people) |
 | [3612-process-string-with-special-operations-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Array
 |  |
 | ------- |
