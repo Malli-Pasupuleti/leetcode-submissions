@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -448,11 +451,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
 | ------- |
