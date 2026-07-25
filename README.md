@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1154-day-of-the-year](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
