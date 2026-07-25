@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
