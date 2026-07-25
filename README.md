@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
