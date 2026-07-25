@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
