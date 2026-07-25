@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -228,9 +230,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
