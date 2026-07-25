@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
