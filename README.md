@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
