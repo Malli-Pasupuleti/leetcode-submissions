@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3701-compute-alternating-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3701-compute-alternating-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
