@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## String Matching
 |  |
 | ------- |
