@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
