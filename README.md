@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
