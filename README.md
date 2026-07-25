@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1154-day-of-the-year) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
