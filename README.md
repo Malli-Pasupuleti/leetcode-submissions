@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
