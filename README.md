@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Linked List
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Prefix Sum
 |  |
 | ------- |
