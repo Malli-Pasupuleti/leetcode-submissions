@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
