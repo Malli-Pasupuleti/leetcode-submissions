@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
@@ -221,12 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
