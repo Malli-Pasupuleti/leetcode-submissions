@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
