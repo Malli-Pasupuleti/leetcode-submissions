@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Linked List
 |  |
 | ------- |
