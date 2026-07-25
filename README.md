@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
