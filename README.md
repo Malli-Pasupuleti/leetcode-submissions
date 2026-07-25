@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
