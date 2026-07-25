@@ -364,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1280-students-and-examinations) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
