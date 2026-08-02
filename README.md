@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
