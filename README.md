@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
