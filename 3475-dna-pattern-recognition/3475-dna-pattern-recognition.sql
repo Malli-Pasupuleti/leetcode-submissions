@@ -4,15 +4,15 @@ SELECT
     dna_sequence,
     species,
     CASE 
-        WHEN dna_sequence LIKE 'ATG%' THEN 1 ELSE 0 END AS has_start,
+        WHEN dna_sequence REGEXP '^ATG' THEN 1 ELSE 0 END AS has_start,
 
     CASE 
-        WHEN dna_sequence LIKE '%TAA' OR dna_sequence LIKE '%TAG' OR       dna_sequence LIKE '%TGA' THEN 1 ELSE 0 END AS has_stop,
+        WHEN dna_sequence REGEXP 'TAA$|TAG$|TGA$' THEN 1 ELSE 0 END AS has_stop,
 
     CASE 
-        WHEN dna_sequence LIKE '%ATAT%' THEN 1 ELSE 0 END AS has_atat,
+        WHEN dna_sequence REGEXP 'ATAT' THEN 1 ELSE 0 END AS has_atat,
 
     CASE 
-        WHEN dna_sequence LIKE '%GGG%' THEN 1 ELSE 0 END AS has_ggg
+        WHEN dna_sequence REGEXP 'GGG' THEN 1 ELSE 0 END AS has_ggg
 
 FROM Samples;
