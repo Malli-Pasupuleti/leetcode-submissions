@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1280-students-and-examinations) |
+| [3220-odd-and-even-transactions](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/3220-odd-and-even-transactions) |
 ## Enumeration
 |  |
 | ------- |
