@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0706-design-hashmap) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0367-valid-perfect-square) |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -501,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Malli-Pasupuleti/leetcode-submissions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
